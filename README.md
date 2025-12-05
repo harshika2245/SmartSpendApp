@@ -17,3 +17,12 @@ It allows users to manage their budget effectively by organizing expenses and pr
 2. Download or clone this repository
 3. Open a terminal in the project folder
 4. Compile the program:
+5. Run the program:
+
+## Project File
+
+- **SmartSpendApp.java** – Main Java source file containing the complete program.
+
+## Author
+
+Team 06
